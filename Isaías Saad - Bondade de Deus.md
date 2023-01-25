@@ -173,14 +173,16 @@ c1:          Fmaj7/C     G6      C
 v1: Eu cantarei da bondade de Deus
 
 
-> ----------------- Acordes -----------------
-> Capotraste na 2ª casa
-> Bm7*  = X 0 2 0 1 0 - (*C#m7 na forma de Bm7)
-> D*  = X 3 2 0 1 0 - (*E na forma de D)
-> D/F#*  = 0 3 2 0 1 0 - (*E/G# na forma de D/F#)
-> D4*  = X 3 3 0 1 X - (*E4 na forma de D4)
-> D9*  = X 3 5 5 3 3 - (*E9 na forma de D9)
-> G7M/D*  = X 3 3 2 5 X - (*A7M/E na forma de G7M/D)
-> A*  = 3 2 0 0 0 3 - (*B na forma de A)
-> A/C#*  = X 2 0 0 3 3 - (*B/D# na forma de A/C#)
-> A6*  = 3 X 2 4 3 X - (*B6 na forma de A6)
+```
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+Bm7*  = X 0 2 0 1 0 - (*C#m7 na forma de Bm7)
+D*  = X 3 2 0 1 0 - (*E na forma de D)
+D/F#*  = 0 3 2 0 1 0 - (*E/G# na forma de D/F#)
+D4*  = X 3 3 0 1 X - (*E4 na forma de D4)
+D9*  = X 3 5 5 3 3 - (*E9 na forma de D9)
+G7M/D*  = X 3 3 2 5 X - (*A7M/E na forma de G7M/D)
+A*  = 3 2 0 0 0 3 - (*B na forma de A)
+A/C#*  = X 2 0 0 3 3 - (*B/D# na forma de A/C#)
+A6*  = 3 X 2 4 3 X - (*B6 na forma de A6)
+```
