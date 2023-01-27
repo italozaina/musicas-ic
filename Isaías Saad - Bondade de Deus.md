@@ -3,6 +3,12 @@ youTubeId: mZ9yZYo9Mmk
 chords:
   Fmaj7/C:
     - m1 n2,3 n3,3 n4,2 n5,1
+  G/B:
+    - m1 n2,2 n5,3 n6,3
+  C/E:
+    - n2,3 n3,2 n5,1
+  G6:
+    - n1,3 n2,2 n5,3
 ---
 
 # Isaías Saad - Bondade de Deus
@@ -179,13 +185,13 @@ v1:   Eu cantarei da bondade de Deus
 ```
 ----------------- Acordes -----------------
 Capotraste na 2ª casa
-Bm7*  = X 0 2 0 1 0 - (*C#m7 na forma de Bm7)
-D*  = X 3 2 0 1 0 - (*E na forma de D)
-D/F#*  = 0 3 2 0 1 0 - (*E/G# na forma de D/F#)
-D4*  = X 3 3 0 1 X - (*E4 na forma de D4)
-D9*  = X 3 5 5 3 3 - (*E9 na forma de D9)
-G7M/D*  = X 3 3 2 5 X - (*A7M/E na forma de G7M/D)
-A*  = 3 2 0 0 0 3 - (*B na forma de A)
-A/C#*  = X 2 0 0 3 3 - (*B/D# na forma de A/C#)
-A6*  = 3 X 2 4 3 X - (*B6 na forma de A6)
+Am7*  = X 0 2 0 1 0 - (*Bm7 na forma de Am7)
+C*  = X 3 2 0 1 0 - (*D na forma de C)
+C/E*  = 0 3 2 0 1 0 - (*D/F# na forma de C/E)
+C4*  = X 3 3 0 1 X - (*D4 na forma de C4)
+C9*  = X 3 5 5 3 3 - (*D9 na forma de C9)
+F7M/C*  = X 3 3 2 1 0 - (*G7M/D na forma de F7M/C)
+G*  = 3 2 0 0 0 3 - (*A na forma de G)
+G/B*  = X 2 0 0 3 3 - (*A/C# na forma de G/B)
+G6*  = 3 2 0 0 3 0 - (*A6 na forma de G6)
 ```
