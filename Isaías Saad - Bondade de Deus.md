@@ -14,7 +14,8 @@ chords:
 # Isaías Saad - Bondade de Deus
 
 
-## [Intro] C  C4  C  C4
+## Intro
+c1: C  Csus4  C  Csus4
 
 ## [Primeira Parte]
 
@@ -39,7 +40,7 @@ v1: Até eu me deitar
 c1:          Fmaj7/C     G6      C
 v1:   Eu cantarei da bondade de Deus
 
-## [Refrão]
+## Refrão
 
 c1: Fmaj7/C                  C
 v1:         És fiel em todo tempo
@@ -53,7 +54,7 @@ v1:         Com todo fôlego que tenho
 c1:          Fmaj7/C     G6      C
 v1:   Eu cantarei da bondade de Deus
 
-## [Segunda Parte]
+## Segunda Parte
 
 c1:           C
 v1: Tua doce voz
@@ -76,7 +77,7 @@ v1: Que amigo és
 c1:       Fmaj7/C G       C
 v1:   Vivo na bondade de Deus
 
-## [Refrão]
+## Refrão
 
 c1: Fmaj7/C                  C
 v1:         És fiel em todo tempo
@@ -102,8 +103,9 @@ v1:         Com todo fôlego que tenho
 c1:          Fmaj7/C     G6      C
 v1:   Eu cantarei da bondade de Deus
 
-## ( C9  C  C4 )
-## ( C  C9  C  C4 )
+c1: ( C9  C  Csus4 )
+
+c1: ( C  C9  C  Csus4 )
 
 ## [Ponte]
 
@@ -188,7 +190,7 @@ Capotraste na 2ª casa
 Am7*  = X 0 2 0 1 0 - (*Bm7 na forma de Am7)
 C*  = X 3 2 0 1 0 - (*D na forma de C)
 C/E*  = 0 3 2 0 1 0 - (*D/F# na forma de C/E)
-C4*  = X 3 3 0 1 X - (*D4 na forma de C4)
+Csus4*  = X 3 3 0 1 X - (*D4 na forma de Csus4)
 C9*  = X 3 5 5 3 3 - (*D9 na forma de C9)
 F7M/C*  = X 3 3 2 1 0 - (*G7M/D na forma de F7M/C)
 G*  = 3 2 0 0 0 3 - (*A na forma de G)
