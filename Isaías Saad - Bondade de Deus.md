@@ -15,11 +15,12 @@ chords:
 
 # Isaías Saad - Bondade de Deus
 
+Capotraste na 2ª casa
 
 ## Intro
 c1: C  Csus4  C  Csus4
 
-## [Primeira Parte]
+## Primeira Parte
 
 c1:          C
 v1: Te amo, Deus
@@ -135,32 +136,7 @@ v1:       Tua bondade me seguirá
 c1:     G6         C    
 v1: Me seguirá Senhor
 
-## [Refrão Final]
-
-c1: Fmaj7/C                  C
-v1:         És fiel em todo tempo
-
-c1: Fmaj7/C                      C        G6
-v1:         Em todo tempo Tu és tão, tão bom
-
-c1: Fmaj7/C                      Am7
-v1:         Com todo fôlego que tenho
-
-c1:          Fmaj7/C     G6      C
-v1:   Eu cantarei da bondade de Deus
-
-c1: Fmaj7/C                  C
-v1:         És fiel em todo tempo
-
-c1: Fmaj7/C                      C        G6
-v1:         Em todo tempo Tu és tão, tão bom
-
-c1: Fmaj7/C                      Am7
-v1:         Com todo fôlego que tenho
-
-c1:          Fmaj7/C     G6      C
-v1:   Eu cantarei da bondade de Deus
-
+## Refrão 2x
 
 ```
 ----------------- Acordes -----------------
