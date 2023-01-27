@@ -103,9 +103,9 @@ v1:         Com todo fôlego que tenho
 c1:          Fmaj7/C     G6      C
 v1:   Eu cantarei da bondade de Deus
 
-c1: ( C9  C  Csus4 )
+c1: C9  C  Csus4
 
-c1: ( C  C9  C  Csus4 )
+c1: C  C9  C  Csus4
 
 ## [Ponte]
 
