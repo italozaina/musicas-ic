@@ -2,7 +2,7 @@
 youTubeId: mZ9yZYo9Mmk
 chords:
   Fmaj7/C:
-    - o3 b1,4,3 n2,4 n3,5 m5 m6
+    - o3 m1 n2,3 n3,3 n4,2 n5,1 n6,0
 ---
 
 # Isaías Saad - Bondade de Deus
