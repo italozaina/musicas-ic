@@ -79,31 +79,7 @@ v1: Que amigo és
 c1:       Fmaj7/C G       C
 v1:   Vivo na bondade de Deus
 
-## Refrão
-
-c1: Fmaj7/C                  C
-v1:         És fiel em todo tempo
-
-c1: Fmaj7/C                      C        G6
-v1:         Em todo tempo Tu és tão, tão bom
-
-c1: Fmaj7/C                      Am7
-v1:         Com todo fôlego que tenho
-
-c1:          Fmaj7/C     G6      C
-v1:   Eu cantarei da bondade de Deus
-
-c1: Fmaj7/C                  C
-v1:         És fiel em todo tempo
-
-c1: Fmaj7/C                      C        G6
-v1:         Em todo tempo Tu és tão, tão bom
-
-c1: Fmaj7/C                      Am7
-v1:         Com todo fôlego que tenho
-
-c1:          Fmaj7/C     G6      C
-v1:   Eu cantarei da bondade de Deus
+## Refrão 2x
 
 c1: C9  C  Csus4
 
