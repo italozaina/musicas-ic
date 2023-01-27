@@ -9,6 +9,8 @@ chords:
     - n2,3 n3,2 n5,1
   G6:
     - n1,3 n2,2 n5,3
+  Csus4:
+    - m1 n2,3 n3,3 n5,1 m6
 ---
 
 # Isaías Saad - Bondade de Deus
