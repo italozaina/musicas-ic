@@ -10,8 +10,8 @@ l1: Tu És bem- vindo aqui
 c1:                 F#m
 l1: E em nosso coração
 
-c1:  D7M        A   E/G#
-l1: Toma a direção
+c1:  Dmaj7        A   E/G#
+l1: Toma   a direção
 
 c1:  A
 l1: Deus fogo consumidor
@@ -19,8 +19,8 @@ l1: Deus fogo consumidor
 c1:                   F#m
 l1: Sem impedimentos vem
 
-c1:         D7M      A  E/G#
-l1: Face a face, senhor
+c1:         Dmaj7      A  E/G#
+l1: Face a face,   senhor
 
 c1:  D    E   F#m
 l1: Sopra em nós
