@@ -49,6 +49,7 @@ c1:           A
 l1: Estou de pé
 
 Na presença do Rei
+
 c1:                    F#m
 l1: Tua glória está aqui
 
