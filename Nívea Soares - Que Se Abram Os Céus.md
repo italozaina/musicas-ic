@@ -48,7 +48,7 @@ tabstave
 c1:           A
 l1: Estou de pé
 
-Na presença do Rei
+l1: Na presença do Rei
 
 c1:                    F#m
 l1: Tua glória está aqui
@@ -59,7 +59,7 @@ l1: Teu amor liberta-me
 c1:          A
 l1: Estás aqui
 
-l1:No trono de louvor
+l1: No trono de louvor
 
 c1:                    F#m
 l1: Tua presença me curou
