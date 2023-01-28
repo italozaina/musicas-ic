@@ -92,6 +92,7 @@ l1: Te queremos, Deus
 ## Solo
 
 c1:        F#m  A  F#m  E
+
 c1:        F#m  A  F#m  E
 
 
@@ -133,7 +134,11 @@ c1:           E
 l1: Estão em Deus Grande Deus
 
 ## Solo
+
 c1:        F#m  A  F#m  E
+
 c1:        F#m  A  F#m  E
+
 c1:        F#m  A  F#m  E
+
 c1:        F#m  A  F#m  E
