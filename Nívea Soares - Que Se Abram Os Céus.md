@@ -1,5 +1,10 @@
 ---
 youTubeId: kXKwkQk528A
+chords:
+  Dmaj7:
+    - m1 m2 n4,2 n5,2 n6,2
+  E/G#:
+    - n1,4 m2 n3,2 n4,1
 ---
 
 # Nívea Soares - Que Se Abram Os Céus
