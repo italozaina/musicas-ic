@@ -19,8 +19,7 @@ c1:      A
 l1: que faz milagres
 
 c1:                  Dm7                   A
-l1: Que ouve a nossa oração, que se faz presente 
-l2: aqui
+l1: Que ouve a nossa oração, que se faz presente aqui
 
 c1:                   E                         
 l1: Um dia a gente aprende a dar um passo só de 
@@ -59,8 +58,7 @@ c1:          Dm7                  A
 l1: E a enxergar até o que não se pode ver
 
 c1:              E                          A
-l1: Chega o dia de entender, até ouvir um "não" 
-l2: de Deus
+l1: Chega o dia de entender, até ouvir um "não" de Deus
 
 c1:              Dm7             A
 l1: Mas sem duvidar, mas sem duvidar
