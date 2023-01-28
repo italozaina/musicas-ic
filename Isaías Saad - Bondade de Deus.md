@@ -86,7 +86,7 @@ c1: C9  C  Csus4
 
 c1: C  C9  C  Csus4
 
-## [Ponte]
+## Ponte
 
 c1: C/E                 Fmaj7/C                
 v1:       Tua bondade me seguirá
@@ -112,42 +112,27 @@ v1:       Tua bondade me seguirá
 c1:     G6         C
 v1: Me seguirá Senhor
 
-c1: C/E                 Fmaj7/C
-v1:       Tua bondade me seguirá
-
-c1:     G6         C
-v1: Me seguirá Senhor
-
-c1: C/E                 Fmaj7/C
-v1:       Tua bondade me seguirá
-
-c1:     G6         C
-v1: Me seguirá Senhor
-
-c1:        C/E            Fmaj7/C               
-v1:   Eu me rendo a Ti, te dou o meu ser
-
-c1:     G6          Am7
-v1: Entrego tudo a Ti
-
-c1: C/E                 Fmaj7/C
-v1:       Tua bondade me seguirá
-
-c1:     G6         C    
-v1: Me seguirá Senhor
+## Ponte 1x
 
 ## Refrão 2x
 
-```
------------------ Acordes -----------------
+------ Acordes ------
 Capotraste na 2ª casa
-Am7*  = X 0 2 0 1 0 - (*Bm7 na forma de Am7)
-C*  = X 3 2 0 1 0 - (*D na forma de C)
-C/E*  = 0 3 2 0 1 0 - (*D/F# na forma de C/E)
-Csus4*  = X 3 3 0 1 X - (*D4 na forma de Csus4)
-C9*  = X 3 5 5 3 3 - (*D9 na forma de C9)
-F7M/C*  = X 3 3 2 1 0 - (*G7M/D na forma de F7M/C)
-G*  = 3 2 0 0 0 3 - (*A na forma de G)
-G/B*  = X 2 0 0 3 3 - (*A/C# na forma de G/B)
-G6*  = 3 2 0 0 3 0 - (*A6 na forma de G6)
-```
+Am7*  = X 0 2 0 1 0 - 
+(*Bm7 na forma de Am7)
+C*  = X 3 2 0 1 0 - 
+(*D na forma de C)
+C/E*  = 0 3 2 0 1 0 - 
+(*D/F# na forma de C/E)
+Csus4*  = X 3 3 0 1 X - 
+(*D4 na forma de Csus4)
+C9*  = X 3 5 5 3 3 - 
+(*D9 na forma de C9)
+F7M/C*  = X 3 3 2 1 0 - 
+(*G7M/D na forma de F7M/C)
+G*  = 3 2 0 0 0 3 - 
+(*A na forma de G)
+G/B*  = X 2 0 0 3 3 - 
+(*A/C# na forma de G/B)
+G6*  = 3 2 0 0 3 0 - 
+(*A6 na forma de G6)
