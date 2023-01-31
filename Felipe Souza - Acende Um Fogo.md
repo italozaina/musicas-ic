@@ -3,7 +3,7 @@
 ## Verso 1
 
 c1: C
-l1:   Não há outro lugar
+l1:    Não há outro lugar
 
 c1: F9
 l1:    Onde eu queira estar
@@ -19,7 +19,7 @@ l1: Em teu amor
 
 
 c1: C
-l1:   Não há outro lugar
+l1:    Não há outro lugar
 
 c1: F9
 l1:    Onde eu queira estar
@@ -75,7 +75,7 @@ c1:  C  F9  Am  F9
 ## Verso 1
 
 c1: C
-l1:   Não há outro lugar
+l1:    Não há outro lugar
 
 c1: F9
 l1:    Onde eu queira estar
