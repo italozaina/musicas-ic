@@ -40,10 +40,11 @@ l1: Ele é o leão de Judá, ele é o leão de Judá
 c1: A9                  F#m11
 l1: Ele ruge, ele ruge, ele ruge neste lugar
 
+## Solo
 
-c1: Solo A9  F#m7  C#m7  Bsus4
-l1: 
+c1:  A9  F#m7  C#m7  Bsus4
 
+## 
 
 c1:  C#m7         Bsus4          A9       F#m11
 l1: Claro, tão claro, o teu brilho é maior
