@@ -5,7 +5,7 @@ youTubeId: vBnSfBMJIoc
 # Abertura - Eyshila
 
 ## Intro  2x:
-c1:  C7+  Em7   D   C   Em7
+c1:  C7  Em7   D   C   Em7
 
 
 c1: G                    D/F#
