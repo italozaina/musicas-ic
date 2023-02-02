@@ -7,6 +7,7 @@ youTubeId: vBnSfBMJIoc
 ## Intro  2x:
 c1:  C7  Em7   D   C   Em7
 
+## 
 
 c1: G                    D/F#
 l1:  Adorar é o que sei
@@ -23,7 +24,7 @@ l1: Não existem prisões
 c1:                            Am      G/B        C       D   G
 l1: Que contenham a voz de quem te adora, oh Senhor.
 
-
+## 
 
 c1: G                    D/F#
 l1:  Adorar é o que sei
