@@ -78,7 +78,7 @@ l1: Que enche-me de calor
 
 ## 
 
-c1: ( C  F ) 
+c1:  C  F 
 
 ## 
 
