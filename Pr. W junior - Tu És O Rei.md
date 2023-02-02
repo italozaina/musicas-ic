@@ -4,8 +4,11 @@ youTubeId: vsCPW-geCEw
 
 # Pr. W junior - Tu És O Rei
 
-c1: Intro C#m7  B  A  F#m7(11)
-l1: 
+## Intro
+
+c1: C#m7  B  A  F#m7(11) 
+
+## 
 
 c1: C#m7      B4            A9     F#m11
 l1: Tu és o rei ninguém pode mudar
@@ -19,9 +22,11 @@ l1: As trevas se vão, barreiras se vão
 c1:      A9          F#m11
 l1: Por causa da sua luz
 
+## 
 
-c1: ( C#m7  B4  A  F#m11 )
-l1: 
+c1:  C#m7  B4  A  F#m11 
+
+## 
 
 c1: C#m7                      B4
 l1: Ele é a estrela da manhã, ele é a estrela da manhã
